@@ -1,0 +1,14 @@
+Django
+djangorestframework
+dj-database-url
+psycopg2
+gunicorn
+asgiref
+Pillow
+pytz
+sqlparse
+whitenoise
+django-rest-auth
+dj-rest-auth
+django-allauth
+django-on-heroku
